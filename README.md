@@ -18,5 +18,4 @@ autocmd VimEnter * hi Normal guibg=NONE ctermbg=NONE
 ```
 
 ## Screenshot
-![Screenshot](static/screenshot.png?raw=true "New Dawn Fades Colorscheme")
-
+![Screenshot](https://imgur.com/a/idrS2aF)
