@@ -18,4 +18,4 @@ autocmd VimEnter * hi Normal guibg=NONE ctermbg=NONE
 ```
 
 ## Screenshot
-![Screenshot](https://imgur.com/a/idrS2aF)
+![Screenshot](https://i.imgur.com/93fhFII.png)
